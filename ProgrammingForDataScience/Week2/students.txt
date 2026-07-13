@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Sameer",
+        "age": 16,
+        "student_id": "22509030"
+    },
+    {
+        "name": "Katik",
+        "age": 17,
+        "student_id": "225090312"
+    },
+    {
+        "name": "Ashsis",
+        "age": 16,
+        "student_id": "22509032423"
+    }
+]
